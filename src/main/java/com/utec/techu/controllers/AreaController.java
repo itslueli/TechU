@@ -15,7 +15,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 
 @RestController
 @RequestMapping("/api/areas")
-public class AreaController {
+public class    AreaController {
 
     @Autowired
     private AreaRepository areaRepository;
