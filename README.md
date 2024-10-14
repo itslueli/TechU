@@ -76,6 +76,7 @@ TechU es relevante porque proporciona a los estudiantes una plataforma para crea
 ---
 
 ## Modelo de Entidades 📊
+![Diagrama de Entidades]("C:\Users\LUCIA\Documents\techU\MODELO.jpeg")
 
 ### Descripción de Entidades:
 1. **Usuario:** Atributos como ID, nombre, correo electrónico, rol (estudiante/profesor), y cursos impartidos.
